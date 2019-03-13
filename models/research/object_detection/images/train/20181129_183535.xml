@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20181129_183535.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\20181129_183535.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1494</width>
+		<height>2656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kyungsik_id</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>881</ymin>
+			<xmax>1025</xmax>
+			<ymax>1937</ymax>
+		</bndbox>
+	</object>
+</annotation>
